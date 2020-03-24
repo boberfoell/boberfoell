@@ -1,5 +1,5 @@
 //Set the text to render
-textstring="Daniel";
+textstring="Oberfoell";
 
 //Set text size in mm
 textsize=16; 
